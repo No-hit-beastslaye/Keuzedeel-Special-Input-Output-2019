@@ -19,7 +19,7 @@ Deze sprint staat in teken van het opstarten van het project. De studenten krijg
 * Onderzoek doen
 * **Presentatie 1 - (GONOGO)**
 * Start project
-  * [ ] Repository forken
+  * [X] Repository forken
   * [ ] Templates kopieren
   * [ ] [Readme invullen](../readme.md)
   * [ ] Link mailen naar [docent](e.schenk@ma-web.nl) 
