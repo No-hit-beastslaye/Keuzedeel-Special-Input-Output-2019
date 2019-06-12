@@ -1,5 +1,5 @@
 # Special Input/Output
-Team #
+Team 7
 1. Brandon Ruigrok
 2. Tiësto Schouten
 
