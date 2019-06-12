@@ -3,7 +3,7 @@ Team #
 1. Brandon Ruigrok
 2. Tiësto Schouten
 
-[Projectmanagment]() <Trello scrumboard bijvoorbeeld>
+[Projectmanagment](https://trello.com/b/JeXzrCJK/innoutput-2019) <Trello scrumboard bijvoorbeeld>
 
 ## Ontwerp
 Beschrijf hier kort jullie project
