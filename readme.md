@@ -6,7 +6,7 @@ Team 7
 [Projectmanagment](https://trello.com/b/JeXzrCJK/innoutput-2019) <Trello scrumboard bijvoorbeeld>
 
 ## Ontwerp
-Beschrijf hier kort jullie project
+We ontwikkelen de game in VR waarbij projectielen naar je toe worden gegooid die je moet opvangen. Des te meer je opvangt, des te beter de score, en hoe hoger de score, des te beter je hand oog coördinatie is. Deze applicatie is zowel voor jong en oud, zolang je maar ouder bent dan 11.
 
 ## Portfolio
 Zet hier de links neer naar jullie documentatie.
