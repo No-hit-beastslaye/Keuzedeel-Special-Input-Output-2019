@@ -20,10 +20,10 @@ Deze sprint staat in teken van het opstarten van het project. De studenten krijg
 * **Presentatie 1 - (GONOGO)**
 * Start project
   * [X] Repository forken
-  * [ ] Templates kopieren
-  * [ ] [Readme invullen](../readme.md)
-  * [ ] Link mailen naar [docent](e.schenk@ma-web.nl) 
-  * [ ] Docenten betrokken bij het keuzedeel [Erik ](e.vanWees@ma-web.nl) [Berend ](b.Weij@ma-web.nl) [Ed](e.schenk@ma-web.nl) 
+  * [X] Templates kopieren
+  * [X] [Readme invullen](../readme.md)
+  * [X] Link mailen naar [docent](e.schenk@ma-web.nl) 
+  * [X] Docenten betrokken bij het keuzedeel [Erik ](e.vanWees@ma-web.nl) [Berend ](b.Weij@ma-web.nl) [Ed](e.schenk@ma-web.nl) 
 
 ## Sprint 1   hello world<SPRINT> 
 Deze sprint staat in teken van de 'Hello World'. Aan het einde van deze sprint gaan de studenten een eerste speelbare prototype opleveren. Het doel van dit prototype is om de laten zien dat hun techniek werkt, en dat ze hun input/output werkend hebben gekregen.
