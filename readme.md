@@ -18,3 +18,5 @@ Zet hier de links neer naar jullie documentatie.
 * [Logboek](https://calendar.google.com/calendar?cid=dGltNGM5N2I2Y25xc2Y1aGJpYzR2N2NzbmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 * [Bronnenlijst](https://docs.google.com/document/d/1rK8lAspxlmiGwvdoMfZG5pN3str4taQLnGm_f3FCYcI/edit)
 * [Usertests](https://drive.google.com/drive/folders/1wIXq5UocOVgSK-f9npYrmYqK-9p2OvfY?usp=sharing)
+* [Classdiagrams](https://github.com/No-hit-beastslaye/Keuzedeel-Special-Input-Output-2019/tree/master/Portfolio/ClassDiagrams)
+* [OnePageDesign](https://github.com/No-hit-beastslaye/Keuzedeel-Special-Input-Output-2019/tree/master/Portfolio/OnePager)
