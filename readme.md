@@ -15,3 +15,4 @@ Zet hier de links neer naar jullie documentatie.
 * [Ontwerp](https://github.com/No-hit-beastslaye/Keuzedeel-Special-Input-Output-2019/blob/master/Portfolio/P02%20-%20Ontwerp%20document.pdf)
 * [Testrapportage](https://github.com/No-hit-beastslaye/Keuzedeel-Special-Input-Output-2019/blob/master/Portfolio/P03%20-%20Test%20rapportage.pdf)
 * [Presentatie]()
+* [Logboek](https://calendar.google.com/calendar?cid=dGltNGM5N2I2Y25xc2Y1aGJpYzR2N2NzbmNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
